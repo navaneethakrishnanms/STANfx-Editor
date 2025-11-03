@@ -1,0 +1,5 @@
+{
+  "name": " STANFx final",
+  "description": "STANFx: An AI-powered image editor using Gemini. Upload a photo, describe your desired edits with a text prompt, and let the AI bring your vision to life. Edited images can be saved to a local browser gallery.",
+  "requestFramePermissions": []
+}
